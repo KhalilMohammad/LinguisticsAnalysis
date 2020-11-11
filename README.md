@@ -1,7 +1,5 @@
 # LinguisticsAnalysis
 
-Linguistics Analysis is a project that does analysis on linguistics.
-
 ## Installation
 
 * Install [WinAppDriver](https://github.com/microsoft/WinAppDriver)
